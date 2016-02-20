@@ -192,6 +192,7 @@ span {
 
 	#centerContainer {
 		width: 96%;
+		max-width: 1024px;
 	}
 
 	h2 { 

@@ -193,11 +193,11 @@ span {
 	#centerContainer {
 		width: 96%;
 		max-width: 1024px;
+		background-color: darkgray;
 	}
 
 	h2 { 
 		display: inline;
-		align-content: left;
 	}
 
 	.header-nav, ol {
@@ -239,6 +239,10 @@ span {
 		max-width: 60%;
 		margin: 0 20% 40px 20%;
 		font-size: 1.3em;
+	}
+
+	body {
+		background-color: white;
 	}
 
 }
